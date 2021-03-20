@@ -9,7 +9,7 @@ require (
 	github.com/gobuffalo/tags v2.1.7+incompatible // indirect
 	github.com/iancoleman/strcase v0.1.3
 	github.com/kckrinke/go-cdk v0.0.5
-	github.com/kckrinke/go-ctk v0.0.0-00010101000000-000000000000
+	github.com/kckrinke/go-ctk v0.0.1
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/urfave/cli/v2 v2.3.0
 	golang.org/x/net v0.0.0-20210316092652-d523dce5a7f4
